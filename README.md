@@ -1,3 +1,3 @@
 # apnacollege-demo
--This is my first tutorial git repository 
-Author - HaMood
+-This is my first  Git repository 
+Author - Muhammad Hamdan 
